@@ -52,3 +52,4 @@ console.log('Generated Token:', generatedToken);
 // Example: Uncomment the next line to test token verification
 // const decodedToken = verifyToken(generatedToken);
 // console.log('Decoded Token:', decodedToken);
+//change
