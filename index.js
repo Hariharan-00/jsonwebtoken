@@ -53,4 +53,8 @@ console.log('Generated Token:', generatedToken);
 // const decodedToken = verifyToken(generatedToken);
 // console.log('Decoded Token:', decodedToken);
 //change
+<<<<<<< HEAD
 //emergency brance
+=======
+//branch12
+>>>>>>> branch1
